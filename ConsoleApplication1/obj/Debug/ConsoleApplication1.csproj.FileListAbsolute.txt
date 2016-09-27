@@ -1,0 +1,14 @@
+C:\Users\user1\Documents\Visual Studio 2013\Projects\WebApplication8\ConsoleApplication1\bin\Debug\Database1.mdf
+C:\Users\user1\Documents\Visual Studio 2013\Projects\WebApplication8\ConsoleApplication1\bin\Debug\Database1_log.ldf
+C:\Users\user1\Documents\Visual Studio 2013\Projects\WebApplication8\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\user1\Documents\Visual Studio 2013\Projects\WebApplication8\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\user1\Documents\Visual Studio 2013\Projects\WebApplication8\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\user1\Documents\Visual Studio 2013\Projects\WebApplication8\ConsoleApplication1\bin\Debug\EntityFramework.dll
+C:\Users\user1\Documents\Visual Studio 2013\Projects\WebApplication8\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\Visual Studio 2013\Projects\WebApplication8\ConsoleApplication1\bin\Debug\EntityFramework.xml
+C:\Users\user1\Documents\Visual Studio 2013\Projects\WebApplication8\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Documents\Visual Studio 2013\Projects\WebApplication8\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\user1\Documents\Visual Studio 2013\Projects\WebApplication8\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\user1\Source\Repos\DemoToAddDb\lab9\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\user1\Source\Repos\DemoToAddDb\lab9\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\user1\Source\Repos\DemoToAddDb\lab9\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,7 @@
+C:\Users\user1\Documents\Visual Studio 2013\Projects\WebApplication8\ConsoleApplication2\bin\Debug\Database1.mdf
+C:\Users\user1\Documents\Visual Studio 2013\Projects\WebApplication8\ConsoleApplication2\bin\Debug\Database1_log.ldf
+C:\Users\user1\Documents\Visual Studio 2013\Projects\WebApplication8\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\user1\Documents\Visual Studio 2013\Projects\WebApplication8\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\user1\Documents\Visual Studio 2013\Projects\WebApplication8\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\user1\Documents\Visual Studio 2013\Projects\WebApplication8\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\user1\Documents\Visual Studio 2013\Projects\WebApplication8\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
